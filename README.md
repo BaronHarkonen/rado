@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://baronharkonen.github.io/rado/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1NzHNcxXdZIY_yuEnFBpXA8bYVQo4H9kxAOJD4u1BIY4/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1NzHNcxXdZIY_yuEnFBpXA8bYVQo4H9kxAOJD4u1BIY4/edit#gid=1033046795
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
